@@ -13,7 +13,7 @@ Estudante de **Engenharia de Software** na **Universidade Positivo** e servidor 
 Atualmente, concentro meus estudos e projetos em **Cybersecurity**, **Desenvolvimento de Software** e **Design de Experiência do Usuário (UX/UI)**, unindo a disciplina e a gestão de processos da minha bagagem administrativa com o rigor técnico da tecnologia.
 
 - 🎓 **Graduação:** Engenharia de Software (Universidade Positivo)
-- 🔒 **Foco Atual:** Segurança da Informação, Testes de Penetração e Práticas de DevSecOps
+- 🔒 **Foco Atual:** CiberSegurança e Proteção de dados
 - 📍 **Localização:** Paraná, Brasil
 
 ---

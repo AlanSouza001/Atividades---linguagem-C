@@ -15,4 +15,4 @@ else if (salario > 2000.0 && salario <= 5000.0) {
   imposto = salario . 0.20;
   printf("Voce paga R$ X.2f de imposto. \n", imposto);
 }
-return 03
+return 0;

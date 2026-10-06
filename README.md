@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-
+ 
 Estudante de **Engenharia de Software** na **Universidade Positivo** e servidor público. Atuo há mais de 4 anos no setor administrativo militar, com vasta experiência na gestão, classificação e controle de documentos restritos e sigilosos.
 
 Atualmente, concentro meus estudos e projetos em **Cybersecurity**, **Desenvolvimento de Software** e **Design de Experiência do Usuário (UX/UI)**, unindo a disciplina e a gestão de processos da minha bagagem administrativa com o rigor técnico da tecnologia.

@@ -1,0 +1,27 @@
+Istruct Produto {
+    int codigo;
+    float preco;
+
+int main() {
+  struct Produto loja[3];
+  int i;
+}
+  for (i=0; i < 3; i++) {
+    printf("\nProduto Indice [%d] - Codigo: ", i);
+    scanf("%d", &loja[i].codigo);
+    printf("Produto Indice [%d] - Preco: ", i);
+    scanf("%f", &loja[i].preco);
+}
+
+  printf("\n>> RELATORIO DE INVENTARIO << \n");
+
+  for (i = 0; i < 3; i++) {
+    printf(
+    "SLOT %d -> Codigo: [%d] | R$ %.2f\n",
+    i,
+    loja[i].codigo,
+    loja[i].preco
+  );
+}
+  return 0;
+}

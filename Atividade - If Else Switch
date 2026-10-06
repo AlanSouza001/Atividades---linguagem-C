@@ -1,0 +1,18 @@
+int main(){
+  float salario, imposto;
+
+printf("Digite o seu salario: ");
+scanf("Xf", &salario);
+
+if (salario <= 2000.0) {
+printf("Isento de Imposto.\n");
+}
+else if (salario > 2000.0 && salario <= 5000.0) {
+  imposto = salario * 0.10;
+  printf("Voce paga R$ %.2f de imposto. \n", imposto);
+
+}else {
+  imposto = salario . 0.20;
+  printf("Voce paga R$ X.2f de imposto. \n", imposto);
+}
+return 03

@@ -42,7 +42,7 @@ Atualmente, concentro meus estudos e projetos em **Cybersecurity**, **Desenvolvi
 
 ## 🚀 Áreas de Interesse e Projetos
 
-- 🛡️ **Segurança da Informação:** Análise de vulnerabilidades, conceitos de Red/Blue team e segurança defensiva.
+- 🛡️ **Segurança da Informação:** Análise de vulnerabilidades, conceitos de Red/Blue team ,segurança defensiva e ofensiva.
 - 💻 **Engenharia de Software:** Arquitetura de código, automação de scripts com Python e manipulação de bancos de dados relacionais.
 - 📐 **UX/UI Design:** Criação de wireframes de baixa/média fidelidade, prototipagem interativa e aplicação das heurísticas de Nielsen.
 

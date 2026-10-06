@@ -24,6 +24,9 @@ Projetos e atividades práticas desenvolvidos em **Linguagem C**:
   - 🧩 [**Atividade - Structs**](https://github.com/AlanSouza001/Atividades---linguagem-C/blob/main/Atividade%20-%20Structs): Implementação e manipulação de estruturas de dados heterogêneas (`structs`) em C.
   - 🔀 [**Atividade - If, Else & Switch**](https://github.com/AlanSouza001/Atividades---linguagem-C/blob/main/Atividade%20-%20If%20Else%20Switch): Resolução de exercícios com estruturas condicionais e de decisão.
 
+### 🌐 Desenvolvimento Web (HTML & CSS)
+- 📂 [**Atividade - HTML**](https://github.com/AlanSouza001/Atividade---HTML)
+  - 🌿 [**O Jardim Botânico**](https://github.com/AlanSouza001/Atividade---HTML/blob/main/O%20Jardim%20Botanico): Projeto de página web estruturada utilizando tags semânticas do HTML5 e estilização visual.
 ---
 
 ## 🛠 Habilidades e Tecnologias

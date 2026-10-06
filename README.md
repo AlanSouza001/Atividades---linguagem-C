@@ -18,6 +18,14 @@ Atualmente, concentro meus estudos e projetos em **Cybersecurity**, **Desenvolvi
 
 ---
 
+Projetos e atividades práticas desenvolvidos em **Linguagem C**:
+
+- 📂 [**Atividades em Linguagem C**](https://github.com/AlanSouza001/Atividades---linguagem-C)
+  - 🧩 [**Atividade - Structs**](https://github.com/AlanSouza001/Atividades---linguagem-C/blob/main/Atividade%20-%20Structs): Implementação e manipulação de estruturas de dados heterogêneas (`structs`) em C.
+  - 🔀 [**Atividade - If, Else & Switch**](https://github.com/AlanSouza001/Atividades---linguagem-C/blob/main/Atividade%20-%20If%20Else%20Switch): Resolução de exercícios com estruturas condicionais e de decisão.
+
+---
+
 ## 🛠 Habilidades e Tecnologias
 
 ### Linguagens & Banco de Dados
@@ -36,7 +44,6 @@ Atualmente, concentro meus estudos e projetos em **Cybersecurity**, **Desenvolvi
 [Figma]
 
 [Git]
-
 
 ---
 
